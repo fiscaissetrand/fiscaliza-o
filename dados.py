@@ -28,9 +28,7 @@ FISCAIS_CONTRATOS = {
     ],
     "Diogo Henrique Bandeira de Araújo": [
         {"contrato": "08/2022 - CPL/SETRAND-DER/AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
-        {"contrato": "15/2022 - CPL/SETRAND-DER/AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
         {"contrato": "21/2022 - CPL/SETRAND-DER/AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
-        {"contrato": "03/2026 - CPL/AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
         {"contrato": "20/2025 - CPL/AL", "aba": "OUTRAS OBRAS"},
     ],
     "Jorge Douglas Rocha de Araujo": [
