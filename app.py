@@ -231,7 +231,7 @@ for i, bloco_id in enumerate(st.session_state.blocos):
             observacoes = st.text_area(
                 "Observações (opcional)",
                 key=f"obs__{bloco_id}",
-                placeholder="Pode explicar o motivo, se quiser (ex: obra parada, sem medição na semana)...",
+                placeholder="Pode explicar o motivo, se quiser (ex: obra parada, sem medição na semana) ou pedido para incluir contratos...",
             )
 
             respostas_normais.append(
