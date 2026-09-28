@@ -22,6 +22,7 @@ FISCAIS_CONTRATOS = {
         {"contrato": "CT 11 2026 CPL AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
         {"contrato": "CT 12 2026 CPL AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
         {"contrato": "CT 17 2026 CPL AL", "aba": "IMPLANTAÇÃO ASFÁLTICA"},
+        {"contrato": "CT 14 2026 CPL AL", "aba": "OUTRAS OBRAS"},
     ],
     "Cláudio Marinho Couto Filho": [
         {"contrato": "CT 040 2025 CPL AL", "aba": "MCL 03"},
