@@ -58,11 +58,9 @@ link para ser distribuído entre os fiscais junto com a senha única
 
 
 
-
-Há script interno para retirar os dados da planilha e jogar no banco de dados interno.
-Somando os dados numéricos e substituindo os dados de situação observação. 
+Há script interno para fazer e  retirar os dados da planilha e jogar no banco de dados interno e realiza backup no computador do gerenciador. 
+Somando os dados numéricos e substituindo os dados de situação e observação. 
 Para adcionar um novo contrato o fiscal entra em contato e pede a adição 
 ou na aba observação pede para mudar a situação de algum contrato para "Em execução"
-
 
 
