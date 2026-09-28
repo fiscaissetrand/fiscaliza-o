@@ -318,7 +318,6 @@ for i, bloco_id in enumerate(st.session_state.blocos):
                 ]
             )
         else:
-            # ---- bloco normal de contrato ----
             col1, col2 = st.columns(2)
             with col1:
                 valor_num = st.number_input(
@@ -389,6 +388,6 @@ if st.button("✅ Enviar tudo", type="primary", use_container_width=True):
     except Exception as e:
         st.error(f"Ocorreu um erro ao enviar os dados: {e}")
         st.caption(
-            "Confira se a planilha foi compartilhada com o e-mail da service account "
-            "e se as credenciais em secrets.toml estão corretas."
+            "Confira se a planilha foi compartilhada"
+            "e se as credenciais em estão corretas."
         )
